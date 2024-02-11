@@ -9,27 +9,6 @@
 
 😄 Pronouns: He/him.
 
-🌝  Frontend:
-
-TypeScript / JavaScript (ES6+)
-
-ReactJS / Immer / ImmutableJS  / Recompose
-
-Redux Toolkit / Redux Thunk 
-
-React Hook Form / Formik
-
-SCSS / styled-components / CSS Modules  / talwindcss
-
-Material UI / Semantic UI / Twitter Bootstrap / Ant Design
-
-Webpack / Gulp / Rollup
-
-React Testing Library / Cypress
-
-Code Splitting / Lazy Loading
-
-ESLint / Prettier
 
 💼My projects:
 
