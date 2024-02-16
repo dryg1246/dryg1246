@@ -1,5 +1,4 @@
-
----
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ### 💻 Tech Stack:
 
@@ -56,6 +55,6 @@
 
 Clothing Store -  https://www.forsbrand.com.ua/
 
-[instagram]: https://instagram.com/YauhenKavalchuk
-[linkedin]: https://linkedin.com/in/YauhenKavalchuk
+[instagram]: https://instagram.com/padshiu.smet
+[linkedin]: https://www.linkedin.com/in/danyil-smetanin-a51a03276/
 [telegram]: https://t.me/Fanton1
