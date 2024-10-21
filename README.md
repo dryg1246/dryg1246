@@ -21,7 +21,6 @@
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
-<img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="web storm" src="https://img.shields.io/badge/web storm-007ACC.svg?&style=for-the-badge&logo=WebStorm&logoColor=fff" />&nbsp;
 
